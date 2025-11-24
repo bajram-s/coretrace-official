@@ -928,3 +928,10 @@ textarea {
   transform: scale(1.07);
   box-shadow: 0 16px 38px rgba(0,0,0,0.65);
 }
+
+/* Icon spacing */
+h3 i, .contact-label i {
+  margin-right: 6px;
+  color: var(--accent-strong);
+  font-size: 0.95em;
+}
